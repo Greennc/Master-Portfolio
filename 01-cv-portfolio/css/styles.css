@@ -310,17 +310,4 @@ i.fab.fa-windows::before{
 .copyright{ text-align: center; padding: 30px 0; background: #28023D; }
 
 
- @media only screen 
-   and (min-width : 320px) {
  
-	   i.fab.fa-html5::before,i.fab.fa-css3::before,i.fab.fa-js::before,i.fab.fa-bootstrap::before,i.fab.fa-php::before,i.fab.fa-adobe::before,i.fab.fa-github::before,i.fab.fa-windows::before {
-	font-size: 3rem;
-   }
-}
-
-	
-
-
-#SkillSymbols {
-	background-color: red;
-}
