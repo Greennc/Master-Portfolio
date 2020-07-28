@@ -197,3 +197,8 @@ function isExists(elem){
 	}
 	return false;
 }
+
+// enable popovers 
+$(function () {
+	$('[data-toggle="popover"]').popover()
+})
